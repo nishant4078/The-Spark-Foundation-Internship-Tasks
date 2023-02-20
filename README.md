@@ -12,7 +12,7 @@ Prediction using Unsupervised ML (Level - Beginner)
 
 ● Data can be found at https://bit.ly/3kXTdox
 
-Task 6 :-
+# Task 6 :-
 
 Prediction using Decision Tree Algorithm(Level - Intermediate)
 
